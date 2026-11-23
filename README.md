@@ -7,7 +7,7 @@ membaca sinyalnya, lalu buzzer berbunyi 3 detik dan LED merah menyala.
 LED hijau menyala terus sebagai tanda alat sedang siaga.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/SMHAPX12fzA
 
 ## Komponen
 
